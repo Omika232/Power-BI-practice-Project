@@ -14,4 +14,19 @@ Transforming raw data into actionable insights! Here’s how I tackled house ren
 🔧 Tech Stack: Power BI | Python (Pandas, Scikit-learn) | DAX
 
 
+**2 project** 
+🚀  Power BI Dashboard for HR Analysis 📊
+
+I'm excited to share my latest project, where I developed a comprehensive Power BI dashboard focused on employee attrition analysis. This dashboard leverages key metrics such as KPIs, age group distribution, gender, salary slabs, attrition rates, and job roles to provide deep insights into employee turnover within an organization.
+
+Key Highlights:
+📈 KPIs : Tracking overall performance and attrition trends.
+🎂 Age Group Analysis : Identifying trends across different age brackets.
+👩‍💼 Gender Analysis : Understanding gender-based attrition patterns.
+💼 Salary Slabs : Examining attrition rates across various salary levels.
+🏢 Job Role : Analyzing attrition by specific job roles.
+
+This project showcases the power of data visualization in identifying crucial HR trends and driving informed decision-making.
+
+
 
