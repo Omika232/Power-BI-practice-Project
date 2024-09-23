@@ -14,6 +14,10 @@ Transforming raw data into actionable insights! Here’s how I tackled house ren
 🔧 Tech Stack: Power BI | Python (Pandas, Scikit-learn) | DAX
 
 
+
+
+
+
 **2 project** 
 🚀  Power BI Dashboard for HR Analysis 📊
 
